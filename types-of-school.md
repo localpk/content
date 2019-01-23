@@ -18,6 +18,3 @@ Contents
 - Private schools
 - Government schools
 
-## Overview
-
-All children in England between the ages of 5 and 16 are entitled to a free place at a state school.
