@@ -2,8 +2,8 @@
 
 This repository contains uncompiled content for Local.com.pk site. There are two important parts to it:
 
-• All content are in [Markdown](https://guides.github.com/features/mastering-markdown/).
-• The names and structure of the directories and files dictates the URL structure in the main website.
+- All content are in [Markdown](https://guides.github.com/features/mastering-markdown/).
+- The names and structure of the directories and files dictates the URL structure in the main website.
 
 In addition to Markdown, content can be written in `HTML` and some Custom Components.
 
@@ -11,8 +11,8 @@ In addition to Markdown, content can be written in `HTML` and some Custom Compon
 
 [Custom components](https://using-remark.gatsbyjs.org/custom-components/) are basically ReactJS components. These are used here to produce custom UI elements from user generated contents that otherwise is not so straightforward to produce and sometime impossible. There are few things that need to be made sure when using these components:
 
-• The values for all attributes are in string type
-• closing tag must be provided e.g. <my-component /> is not allowed
+- The values for all attributes are in string type
+- closing tag must be provided e.g. `<my-component />` is not allowed
 
 Here is the list of Custom Components available for Local PK content:
 
