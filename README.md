@@ -16,30 +16,32 @@ In addition to Markdown, content can be written mixed with `HTML` and some Custo
 
 Here is the list of Custom Components available for Local PK content:
 
----
-
 ### `<highlighted-numbers>`
 
-*Attributes*
+_Attributes_
 
-Name|Value
-----|-----
-data|stringified JSON
+| Name | Value            |
+| ---- | ---------------- |
+| data | stringified JSON |
 
 This component is used to display numbers prominently. A description is required against each number in the data.
 
-*Example*
+_Example_
 
 ```html
-<highlighted-numbers data='[{
-  "numbers":"342", "description": "Total number of members", 
-  "numbers":"272", "description": "Directly elected members"
-}]'></highlighted-numbers>
+<highlighted-numbers
+  data="[{
+  &quot;numbers&quot;:&quot;342&quot;, &quot;description&quot;: &quot;Total number of members&quot;,
+  &quot;numbers&quot;:&quot;272&quot;, &quot;description&quot;: &quot;Directly elected members&quot;
+}]"
+></highlighted-numbers>
 ```
 
 Above code example renders following:
 
 ![image](https://user-images.githubusercontent.com/2131246/51764207-7e8b8200-20cc-11e9-8199-df07caf2b023.png)
+
+> Explore [Custom Components](https://www.github.com/localpk/custom-components) repository for more components.
 
 ---
 
@@ -48,11 +50,12 @@ Everyone is welcome to contribute, review and edit content.
 - To add new content, add a new file and submit for review.
 - To edit existing content, edit the file and submit for review.
 
-
 ## License
+
 MIT License
 
 ## Copyrights
+
 &copy; Local.com.pk - All rights reserved.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-50688851-1/localpk/content)](https://github.com/igrigorik/ga-beacon)
