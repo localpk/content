@@ -28,11 +28,11 @@ This component is used to display numbers prominently. A description is required
 
 _Example_
 
-```html
+```
 <highlighted-numbers
   data="[{
-  &quot;numbers&quot;:&quot;342&quot;, &quot;description&quot;: &quot;Total number of members&quot;,
-  &quot;numbers&quot;:&quot;272&quot;, &quot;description&quot;: &quot;Directly elected members&quot;
+  "numbers":"342", "description": "Total number of members",
+  "numbers":"272", "description": "Directly elected members"
 }]"
 ></highlighted-numbers>
 ```
