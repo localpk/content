@@ -5,10 +5,12 @@ category: Time off
 draft: true
 ---
 
-<div class="highlighted-event">
-  <p>The next public holiday in Pakistan is</p>
-  <p>22 November 2018</p>
-  <p>Eid Milad-un-Nabi (PBUH)*</p>
+<div>
+  <highlighted-event
+    caption="The next public holiday in Pakistan is"
+    date="22/11/2018"
+    name="Eid Milad-un-Nabi (PBUH)*"
+  ></highlighted-event>
 </div>
 
 > All Muslim holidays are based on Islamic Calendar and subject to the Moon sighting.
