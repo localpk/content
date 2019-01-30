@@ -10,7 +10,7 @@ The Parliament is made up of two legislative houses, National Assembly (Lower Ho
 
 ---
 
-##The President
+## The President
 
 The President is head of state, civilian Commander-in-Chief of the Pakistan Armed Forces. The President is elected indirectly by the Parliament of Pakistan for a term of 5 years. The President:
 
@@ -28,7 +28,7 @@ The President is head of state, civilian Commander-in-Chief of the Pakistan Arme
 
 ---
 
-##The Prime Minister
+## The Prime Minister
 
 The Prime Minister is head of government, leads different departments and National Command Authority over the nuclear arsenals. The Prime Minister is elected by members of the National Assembly for a term of 5 years. The Prime Minister:
 
@@ -46,7 +46,7 @@ The Prime Minister is head of government, leads different departments and Nation
 
 ---
 
-##The Cabinet
+## The Cabinet
 
 The Cabinet is made up of senior government officials chosen and led by the Prime Minister. The Cabinet holds a weekly meeting presided by Cabinet Secretary who reports to the Prime Minister. Some of the Cabinet members are advisors to the Prime Minister.
 
@@ -58,21 +58,21 @@ The Cabinet is made up of senior government officials chosen and led by the Prim
 
 ---
 
-##National Assembly
+## National Assembly
 
-The National Assembly is the lower legislative house of the bicameral Parliament. The National Assembly is a democratically elected body whose members are referred to as Members of the National Assembly (MNAs). 
+The National Assembly is the lower legislative house of the bicameral Parliament. The National Assembly is a democratically elected body whose members are referred to as Members of the National Assembly (MNAs).
 
 A political party can form the government with obtained majority or with coalition for a term of 5 years. The term starts from the date of first sitting, after which National Assembly is automatically dissolved at the end of term. The Prime Minister has defacto power to dissolve the National Assembly anytime during the term.
 
 The National Assembly is presided by the Speaker, assisted by the Deputy Speaker. The Speaker is the second in the line of succession to the President.
 
 <div>
-  <highlighted-numbers data='[
+  <featured-numbers data='[
   {"numbers": "342", "description": "Total number of members"},
   {"numbers": "272", "description": "Directly elected members"},
   {"numbers": "70", "description": "Reserved seats for women &amp; minorities"},
   {"numbers": "137", "description": "Minimum seats to obtain &amp; preserve majority"}
-  ]'></highlighted-numbers>
+  ]'></featured-numbers>
 </div>
 
 <p class="lead">The Speaker is <a href="/government/people/asad-qaiser">Asad Qaiser</a>.</p>
@@ -84,24 +84,21 @@ The National Assembly is presided by the Speaker, assisted by the Deputy Speaker
 
 ---
 
-##Senate
+## Senate
 
 The Senate is the upper legislative house of the bicameral Parliament. The members of Senate are called Senators and elected for a term of 6 years. The Senate elections are held every 3 years. The Senate has exclusive powers as compared to National Assembly such as making parlimentary bills that can be turned into law. The Senate cannot be dissolved according to the Constitution.
 
 The Senate is presided by the Chairperson who is assisted by the Deputy Chairperson.
 
 <div>
-  <highlighted-numbers data='[
+  <featured-numbers data='[
   {"numbers": "104", "description": "Total number of members"},
   {"numbers": "14", "description": "General seats from each province"},
-  {"numbers": "8", "description": "General seats from Tribal Areas (FATA)"},
-  {"numbers": "2", "description": "General seats from Islamabad Capital Territory"},
+  {"numbers": "8+2", "description": "General seats from Tribal Areas (FATA) and Islamabad Capital Territory"},
   {"numbers": "4", "description": "Reserved Technocrats/Ulema seats from each province"},
-  {"numbers": "4", "description": "Reserved seats for women from each province"},
-  {"numbers": "1", "description": "Reserved seats for minorities from each province"},
-  {"numbers": "1", "description": "Reserved seats for women from Islamabad Capital Territory"},
-  {"numbers": "1", "description": "Reserved seats for minorities from Islamabad Capital Territory"}
-  ]'></highlighted-numbers>
+  {"numbers": "4+1", "description": "Reserved seats for women and minorities from each province"},
+  {"numbers": "1+1", "description": "Reserved seats for women and minorities from Islamabad Capital Territory"}
+  ]'></featured-numbers>
 </div>
 
 <p class="lead">The Chairperson is <a href="/government/people/mir-sadiq-sanjrani">Mir Sadiq Sanjrani</a>.</p>
@@ -113,4 +110,50 @@ The Senate is presided by the Chairperson who is assisted by the Deputy Chairper
 
 ---
 
-<!-- ##Provisional Governments -->
+## Civil Service
+
+Civil Service are managed by the Central Superior Services (CSS), a permanent elite authority and backbone of the state. Central Superior Services are headed by the Establishment Secretary reporting directly to the Prime Minister who is the final authority in all its matters.
+
+Central Superior Services:
+
+- are also known as Civil Service of Pakistan
+- are responsible for running all civilian services and bureaucratic operations
+- have influence on defence, financial, internal and foreign policies
+- is made up of 12 directorates that provide vital office duties for the state
+- was originally derived from former Indian Civil Service and reformed in 1971 to receive a constitutional foundation
+
+### CSS Examination
+
+Civil Servents' selection is done via an yearly examination conducted and supervised by Federal Public Service Commission of Pakistan (FSCP). FSCP is also responsible for allocating successful candidates to different departments of Civil Service.
+
+The CSS examinations:
+
+- are extremely competitive exam and have reputation of low pass rate
+- are held at start of every year in entire country
+- provides equal opportunities to candidates based on their qualifications
+
+<div>
+  <featured-numbers data='[
+    {"numbers": "7.5%", "description": "Merit based selection"},
+    {"numbers": "92.5%", "description": "Quota based selection"}
+  ]'></featured-numbers>
+</div>
+
+The Establishment Secretary is [Dr Ijaz Munir](/government/people/ijaz-munir)
+
+Each provisional branch of Civil Service is headed by the Provincial Chief Secretary.
+
+- The Chief Secretary of Punjab is [Yousuf Naseem Khokhar](/government/people/yousuf-naseem-khokhar)
+- The Chief Secretary of Sindh is [Mumtaz Ali Shah](/government/people/mumtaz-ali-shah)
+- The Chief Secretary of Balochistan is [Akhtar Nazir](/government/people/akhtar-nazir)
+- The Chief Secretary of Khyber Pakhtunkhwa is [Naveed Kamran Baloch](/government/people/naveed-kamran-baloch)
+
+[Read more about Quota System of Pakistan](/government/quota-system)
+
+<a href="http://www.establishment.gov.pk/" target="_blank" rel="noopener">Establishment Division website</a>
+
+<a href="http://www.fpsc.gov.pk/" target="_blank" rel="noopener">Federal Public Service Commission (FSCP) website</a>
+
+---
+
+<!-- ## Provisional Governments -->
