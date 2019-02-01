@@ -112,48 +112,60 @@ The Senate is presided by the Chairperson who is assisted by the Deputy Chairper
 
 ## Civil Service
 
-Civil Service are managed by the Central Superior Services (CSS), a permanent elite authority and backbone of the state. Central Superior Services are headed by the Establishment Secretary reporting directly to the Prime Minister who is the final authority in all its matters.
+The Civil Service of Pakistan is the permanent bureaucracy of the Government of Pakistan. It is considered as backbone of the state. The Civil Service is headed by the Establishment Secretary reporting directly to the Prime Minister. The Prime Minister is the final authority in all matters of the Civil Service.
 
-Central Superior Services:
+The Civil Service:
 
-- are also known as Civil Service of Pakistan
-- are responsible for running all civilian services and bureaucratic operations
+- is also known as Central Superior Services
+- is responsible for running all civilian services and bureaucratic operations
 - have influence on defence, financial, internal and foreign policies
 - is made up of 12 directorates that provide vital office duties for the state
-- was originally derived from former Indian Civil Service and reformed in 1971 to receive a constitutional foundation
+- has a very competitive selection critera via CSS Examination conducted and supervised by Federal Public Service Commission (FSCP)
 
-### CSS Examination
+<p class="lead">The Establishment Secretary is <a href="/government/people/ijaz-munir">Dr Ijaz Munir</a></p>
 
-Civil Servents' selection is done via an yearly examination conducted and supervised by Federal Public Service Commission of Pakistan (FSCP). FSCP is also responsible for allocating successful candidates to different departments of Civil Service.
-
-The CSS examinations:
-
-- are extremely competitive exam and have reputation of low pass rate
-- are held at start of every year in entire country
-- provides equal opportunities to candidates based on their qualifications
-
-<div>
-  <featured-numbers data='[
-    {"numbers": "7.5%", "description": "Merit based selection"},
-    {"numbers": "92.5%", "description": "Quota based selection"}
-  ]'></featured-numbers>
-</div>
-
-The Establishment Secretary is [Dr Ijaz Munir](/government/people/ijaz-munir)
-
-Each provisional branch of Civil Service is headed by the Provincial Chief Secretary.
-
-- The Chief Secretary of Punjab is [Yousuf Naseem Khokhar](/government/people/yousuf-naseem-khokhar)
-- The Chief Secretary of Sindh is [Mumtaz Ali Shah](/government/people/mumtaz-ali-shah)
-- The Chief Secretary of Balochistan is [Akhtar Nazir](/government/people/akhtar-nazir)
-- The Chief Secretary of Khyber Pakhtunkhwa is [Naveed Kamran Baloch](/government/people/naveed-kamran-baloch)
-
-[Read more about Quota System of Pakistan](/government/quota-system)
+[Read more about Civil Service](/government/offices/civil-service)
 
 <a href="http://www.establishment.gov.pk/" target="_blank" rel="noopener">Establishment Division website</a>
 
-<a href="http://www.fpsc.gov.pk/" target="_blank" rel="noopener">Federal Public Service Commission (FSCP) website</a>
+---
+
+## Provincial Governments
+
+Provincial Governments are the responsible for each province to run the province with support from the federal government. Each province:
+
+- has a Chief Minister who heads the government
+- has a Governor who heads the province
+- has a assembly which is the unicameral legisative branch of provincial government
+
+[Read more about Provincial Governments](/government/offices/provincial-governments)
 
 ---
 
-<!-- ## Provisional Governments -->
+## Territorial Governments
+
+Territorial Governments are same as Provincial government but with some differences. Each province:
+
+- has a Chief Minister who heads the government
+- has a Governor who heads the province
+- has a assembly which is the unicameral legisative branch of provincial government
+
+[Read more about Provincial Governments](/government/offices/territorial-government)
+
+---
+
+## Associated Government
+
+Associated Government is same as Provincial government but with some differences. The only associated government is the government of Azad Kashmir. The associated government is responsible for all matters of Azad Kashmir and has support from the federal government. Associated government:
+
+- has a President as head of the territory
+- has a Prime Minister as head of the associated government
+- has a legisative houses
+
+[Read more about Associated Government](/government/offices/associated-government)
+
+---
+
+## Local Governments
+
+Local Governments are responsible for matters associated with Division and under.
